@@ -66,7 +66,7 @@ Python is a versatile programming language that finds applications in a wide ran
 11. **Education:**
     - Python's simplicity and readability make it a popular choice for teaching programming to beginners.
 
-12. **IoT (Internet of Things):**
+12. **<span style="color:red;">IoT (Internet of Things):</span>**
     - Python is used to program and control various IoT devices due to its lightweight nature.
 
 13. **Cloud Computing:**
