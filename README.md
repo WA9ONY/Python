@@ -1,9 +1,11 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P199">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
+<P align="center"><A HREF="#P2">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Python Project Notes Index
 + Project 1: <A HREF="README.md#P1">Python</A>
++ Project 2: <A HREF="README.md#P2">Harvard Python courses</A>
+
 
 <A NAME="P1"></A>
 <HR>
@@ -85,8 +87,18 @@ Python is a versatile programming language that finds applications in a wide ran
 
 14. Bioinformatics:
     - Python is used for processing and analyzing biological data in genetics, genomics, and proteomics.
-
+   
 15. Data Science and Big Data:
     - Python's data manipulation and analysis capabilities make it suitable for data science tasks.
 
 These are just a few examples of the many applications of Python. Its flexibility and extensive ecosystem make it a powerful tool for developers across a wide range of domains.
+
+<A NAME="P2"></A>
+<HR>
+<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 2: Harvard Python courses
+
+Harvard's Free coding courses are excellent. You need to take them. [YouTube](https://youtu.be/WwEcPcfRlD0)
+
+
