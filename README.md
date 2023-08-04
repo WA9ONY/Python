@@ -1,11 +1,12 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P2">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
+<P align="center"><A HREF="#P4">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Python Project Notes Index
 + Project 1: <A HREF="README.md#P1">Python</A>
 + Project 2: <A HREF="README.md#P2">Harvard Python courses</A>
-
++ Project 3: <A HREF="README.md#P3">Python YouTube channels</A>
++ Project 4: <A HREF="README.md#P4">Stanfor Data Science Course with Python</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -95,10 +96,33 @@ These are just a few examples of the many applications of Python. Its flexibilit
 
 <A NAME="P2"></A>
 <HR>
-<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
     
 # Project 2: Harvard Python courses
 
 Harvard's Free coding courses are excellent. You need to take them. [YouTube](https://youtu.be/WwEcPcfRlD0)
++ CS50x: Introduction to Computer Science
++ CS50AI: Introduction to Computer Science
 
+Python Programmer
++ Brilliant 30 day free trial offer at
+  + First 200 get 20% off year subscription.
+  + brilliant.org/PythonProgrammer/
+ 
 
+<A NAME="P3"></A>
+<HR>
+<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 3: Python YouTube channels
+
++ [Python Programmer](https://www.youtube.com/@gilesmcmullen)
+ 
+
+<A NAME="P4"></A>
+<HR>
+<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 4: Stanfor Data Science Course with Python
+
++ [Stanford's FREE data science book and course are the best yet](https://youtu.be/yNYflGw6kJI)
