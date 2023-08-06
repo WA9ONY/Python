@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P6">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
+<P align="center"><A HREF="#P8">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # Python Project Notes Index
@@ -9,6 +9,8 @@
 + Project 4: <A HREF="README.md#P4">Stanford Data Science Course with Python</A>
 + Project 5: <A HREF="README.md#P5">Python Website</A>
 + Project 6: <A HREF="README.md#P6">Python V2 and V3 Versions</A>
++ Project 7: <A HREF="README.md#P7">Ubuntu 22.04.2 LTS Python 3.10.12 Modules</A>
++ Project 8: <A HREF="README.md#P8">Python IDLE</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -324,7 +326,7 @@ Remember that the official Python website is a reliable source for obtaining Pyt
 
 <A NAME="P6"></A>
 <HR>
-<P align="center"><A HREF="#P5">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P5">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P7">--&gt;</A></P>  
     
 # Project 6: Python V2 and V3 Versions
 
@@ -418,3 +420,182 @@ david@wa9ony-nuc8i7hvk:~$ date
 Sat Aug  5 07:00:55 PM PDT 2023
 david@wa9ony-nuc8i7hvk:~$   
 </PRE>
+
+
+<A NAME="P7"></A>
+<HR>
+<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P8">--&gt;</A></P>  
+    
+# Project 7: Ubuntu 22.04.2 LTS Python 3.10.12 Modules
+
+In Terminal launch Python IDLE
++ idle
+
+<PRE>
+Python 3.10.12 (main, Jun 11 2023, 05:26:28) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+help ()
+
+Welcome to Python 3.10's help utility!
+
+If this is your first time using Python, you should definitely check out
+the tutorial on the internet at https://docs.python.org/3.10/tutorial/.
+
+Enter the name of any module, keyword, or topic to get help on writing
+Python programs and using Python modules.  To quit this help utility and
+return to the interpreter, just type "quit".
+
+To get a list of available modules, keywords, symbols, or topics, type
+"modules", "keywords", "symbols", or "topics".  Each module also comes
+with a one-line summary of what it does; to list the modules whose name
+or summary contain a given string such as "spam", type "modules spam".
+
+help> modules
+
+Please wait a moment while I gather a list of all available modules...
+    
+AptUrl              aptdaemon           ipaddress           reprlib
+Arcus               aptsources          isort               requests
+Charon              argparse            isympy              requests_unixsocket
+CommandNotFound     array               itertools           resource
+Cryptodome          asn1crypto          janitor             rlcompleter
+DistUpgrade         ast                 jedi                roman
+Hamlib              astroid             jeepney             runpy
+HweSupportStatus    asttokens           json                scanext
+LanguageSelector    asynchat            jwt                 sched
+NvidiaDetector      asyncio             keyring             scipy
+OpenGL              asyncore            keyword             secrets
+PAM                 atexit              kiwisolver          secretstorage
+PIL                 attr                language_support_pkgs select
+PyQt5               audioop             launchpadlib        selectors
+Quirks              base64              lazy_object_proxy   send2trash
+SSSDConfig          bcrypt              ldb                 sentry_sdk
+Savitar             bdb                 lib2to3             serial
+UM                  beniget             libfuturize         setuptools
+UbuntuDrivers       binascii            libpasteurize       shapefile
+UbuntuSystemService binhex              linecache           shapely
+UpdateManager       bisect              locale              shelve
+_Hamlib             blinker             lockfile            shlex
+__future__          brlapi              logging             shutil
+_abc                brotli              louis               signal
+_aix_support        bs4                 lsb_release         simplejson
+_ast                builtins            lxml                sip
+_asyncio            bz2                 lz4                 sipconfig
+_bisect             cProfile            lzma                sipconfig_nd10
+_blake2             cairo               macaroonbakery      site
+_bootsubprocess     calendar            mailbox             sitecustomize
+_brotli             cartopy             mailcap             six
+_bz2                certifi             mako                smtpd
+_cffi_backend       cgi                 markupsafe          smtplib
+_codecs             cgitb               marshal             sndhdr
+_codecs_cn          chardet             math                socket
+_codecs_hk          chunk               matplotlib          socketserver
+_codecs_iso2022     click               mccabe              softwareproperties
+_codecs_jp          click_plugins       mesa-overlay-control soupsieve
+_codecs_kr          cmath               mimetypes           speechd
+_codecs_tw          cmd                 mmap                speechd_config
+_collections        code                modulefinder        spwd
+_collections_abc    codecs              monotonic           sqlite3
+_compat_pickle      codeop              more_itertools      sre_compile
+_compression        collections         mpl_toolkits        sre_constants
+_contextvars        colorama            mpmath              sre_parse
+_crypt              colorsys            multiprocessing     ssl
+_csv                compileall          mypy                stat
+_ctypes             concurrent          mypy_extensions     statistics
+_ctypes_test        configparser        mypyc               stl
+_curses             contextlib          nacl                string
+_curses_panel       contextvars         netifaces           stringprep
+_datetime           copy                netrc               struct
+_dbm                copyreg             networkx            subprocess
+_dbus_bindings      crypt               nis                 sunau
+_dbus_glib_bindings cryptography        nntplib             sympy
+_decimal            csv                 ntpath              symtable
+_distutils_hack     ctypes              nturl2path          sys
+_distutils_system_mod cups                numbers             sysconfig
+_elementtree        cupsext             numpy               syslog
+_functools          cupshelpers         oauth               systemd
+_gdbm               cura                oauthlib            tabnanny
+_hashlib            curses              olefile             talloc
+_heapq              cycler              omp                 tarfile
+_imp                d9e93640ccdc3fbe1e95__mypyc opcode              telnetlib
+_io                 dataclasses         openshot            tempfile
+_json               datetime            openshot_qt         termios
+_ldb_text           dateutil            operator            test
+_locale             dbm                 optparse            textwrap
+_lsprof             dbus                orca                this
+_lzma               deb822              os                  thonny
+_markupbase         debconf             osmosdr             threading
+_md5                debian              ossaudiodev         thrift
+_multibytecodec     debian_bundle       packaging           time
+_multiprocessing    decimal             paramiko            timeit
+_opcode             decorator           parso               tkinter
+_openshot           defer               past                token
+_operator           difflib             pathlib             tokenize
+_osx_support        dis                 pcardext            toml
+_pcbnew             distro              pcbnew              tomli
+_pickle             distro_info         pdb                 trace
+_posixshmem         distutils           pexpect             traceback
+_posixsubprocess    doctest             pickle              tracemalloc
+_py_abc             docutils            pickletools         tty
+_pydecimal          duplicity           pip                 turtle
+_pyio               email               pipes               typed_ast
+_queue              encodings           pkg_resources       types
+_random             ensurepip           pkgutil             typing
+_sha1               enum                platform            typing_extensions
+_sha256             errno               platformdirs        uaclient
+_sha3               fasteners           plistlib            ufoLib2
+_sha512             faulthandler        ply                 ufw
+_signal             fcntl               pmt                 unicodedata
+_sitebuiltins       filecmp             poplib              unicodedata2
+_socket             fileinput           posix               unittest
+_sqlite3            fnmatch             posixpath           uno
+_sre                fontTools           pprint              unohelper
+_ssl                fractions           problem_report      urllib
+_stat               fs                  profile             urllib3
+_statistics         ftplib              pstats              usbcreator
+_string             functools           psutil              uu
+_strptime           funcube             pty                 uuid
+_struct             future              ptyprocess          venv
+_symtable           gast                pwd                 volk_modtool
+_sysconfigdata__linux_x86_64-linux-gnu gc                  py                  wadllib
+_sysconfigdata__x86_64-linux-gnu genericpath         py_compile          warnings
+_testbuffer         getopt              pyatspi             wave
+_testcapi           getpass             pyclbr              weakref
+_testclinic         gettext             pydoc               webbrowser
+_testimportmultiple gi                  pydoc_data          webencodings
+_testinternalcapi   glob                pyexpat             wheel
+_testmultiphase     gnuradio            pygccxml            wrapt
+_thread             graphlib            pygments            wsgiref
+_threading_local    grp                 pygtkcompat         wx
+_tkinter            gzip                pylab               xattr
+_tracemalloc        hashlib             pylint              xdg
+_uuid               heapq               pymacaroons         xdrlib
+_warnings           hmac                pynest2d            xkit
+_weakref            hpmudext            pyparsing           xml
+_weakrefset         html                pyproj              xmlrpc
+_xxsubinterpreters  html5lib            pyqso               xxlimited
+_xxtestfuzz         http                pyqtgraph           xxlimited_35
+_yaml               httplib2            pyrfc3339           xxsubtype
+_zoneinfo           icu                 pysss               yaml
+abc                 idlelib             pysss_murmur        youtube_dl
+aifc                idna                python_utils        zeroconf
+antigravity         ifaddr              pythran             zipapp
+appdirs             imaplib             pytz                zipfile
+apport              imghdr              queue               zipimport
+apport_python_hook  imp                 quopri              zipp
+apt                 importlib           random              zlib
+apt_clone           importlib_metadata  re                  zmq
+apt_inst            inspect             readline            zoneinfo
+apt_pkg             io                  reportlab           zope
+
+Enter any module name to get more help.  Or, type "modules spam" to search
+for modules whose name or summary contain the string "spam".
+
+help> 
+
+
+<A NAME="P8"></A>
+<HR>
+<P align="center"><A HREF="#P7">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 8: Python IDLE
