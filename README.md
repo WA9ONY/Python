@@ -407,3 +407,14 @@ Python 3.9.6
 ```
 
 This indicates that the current installed version is Python 3.9.6. Keep in mind that the version numbers are subject to change as new releases are made. If you want to install or update to the latest version of Python, you can download it from the official Python website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+## Ubuntu 20.04.2 LTS Python Version Check
+
+In Terminal
+<PRE>
+david@wa9ony-nuc8i7hvk:~$ python3 --version
+Python 3.10.12
+david@wa9ony-nuc8i7hvk:~$ date
+Sat Aug  5 07:00:55 PM PDT 2023
+david@wa9ony-nuc8i7hvk:~$   
+</PRE>
